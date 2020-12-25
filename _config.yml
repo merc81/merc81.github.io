@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: ''
+mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
 email: no_email@gmail.com
