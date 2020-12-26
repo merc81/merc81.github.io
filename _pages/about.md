@@ -3,7 +3,7 @@ layout: page
 title: Mcoutinho.eu 
 permalink: /about
 comments: false
-image: assets/images/avatar.jpg
+image: assets/images/avatar.png
 imageshadow: true
 ---
 
